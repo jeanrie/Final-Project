@@ -2,7 +2,6 @@
 
 ## Deep Learning-Based Energy Disaggregation and Time-Series Analysis for Optimizing Household Appliance Use
 
-I am an enthusiastic Computer Engineering Student specializing in Data Science at Technological Institute of the Philippines.
 
 
 ## About this Repository
