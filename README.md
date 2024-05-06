@@ -5,36 +5,20 @@
 I am an enthusiastic Computer Engineering Student specializing in Data Science at Technological Institute of the Philippines.
 
 
-## About Me 🎶
+## About this Repository
 
-I'm constantly exploring new technologies, much like Taylor Swift explores different musical genres.
-
-- 🌱 I’m currently learning new programming languages and frameworks:
-  - 📊 Advance Machine Learning
-  - 🧠 Deep Learning
-  - 💫 Quantum Computing
-  - 💻 Computer Network
-- 🎸 Fun fact: I often find inspiration for my code while listening to Taylor Swift's music. It's like magic!
-
-## Connect with Me 📲
-
-Feel free to reach out! Let's connect and create something amazing together:
-
-- 📧 Email: [qemhernandez1@tip.edu.ph](mailto:qemhernandez1@tip.edu.ph)
-- 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/eujean-marie-hernandez-6126b2247/)
 
 ## My Toolbox 🛠️
 
-Just like Taylor Swift has her instruments, here are the tools I use to create magic in the digital world:
 
-- 🖥️ Languages: Python, C++, HTML/CSS
+- 🖥️ Language: Python
 - 📊 Data Science: Pandas, NumPy, TensorFlow, scikit-learn
 - 📦 Databases: MySQL, SQLite
 - 🎨 Design: Adobe Photoshop, Qt UI
 
-## Let's Collaborate! 🤝
+## Connect with Us 📲
 
-I'm always open to collaborations and new opportunities. If you have a project idea or just want to chat about coding and music, feel free to reach out!
+Feel free to reach out! Let's connect and create something amazing together:
 
-Cheers,
-Marie
+- 📧 Email: [qemhernandez1@tip.edu.ph](mailto:qemhernandez1@tip.edu.ph)
+- 📧 Email: [qmjremgate@tip.edu.ph](mailto:qmjremgate@tip.edu.ph)
