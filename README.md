@@ -3,9 +3,6 @@
 ## Deep Learning-Based Energy Disaggregation and Time-Series Analysis for Optimizing Household Appliance Use
 
 
-
-## About this Repository
-
 # Dataset
 We use the REFIT Electrical Load Measurements dataset. You can download it [here](http://redd.csail.mit.edu/)
 
