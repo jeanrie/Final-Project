@@ -7,7 +7,7 @@
 ## About this Repository
 
 # Dataset
-We use the REFIT Electrical Load Measurements dataset. You can download it [here]([[http://redd.csail.mit.edu/])
+We use the REFIT Electrical Load Measurements dataset. You can download it [here]([[http://redd.csail.mit.edu/]])
 
 ## Tech Toolbox 🛠️
 
