@@ -8,13 +8,12 @@ I am an enthusiastic Computer Engineering Student specializing in Data Science a
 ## About this Repository
 
 
-## My Toolbox 🛠️
+## Tech Toolbox 🛠️
 
 
 - 🖥️ Language: Python
 - 📊 Data Science: Pandas, NumPy, TensorFlow, scikit-learn
-- 📦 Databases: MySQL, SQLite
-- 🎨 Design: Adobe Photoshop, Qt UI
+- 📊 Frameworks: Pandas, Numpy, TensorFlow, Sci-kit Learn, Keras, Streamlit
 
 ## Connect with Us 📲
 
