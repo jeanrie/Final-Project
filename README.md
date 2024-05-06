@@ -6,6 +6,9 @@
 
 ## About this Repository
 
+# Dataset
+We use the REFIT Electrical Load Measurements dataset. You can download it here https://pureportal.strath.ac.uk/en/datasets/refit-electrical-load-measurements-cleaned
+
 
 ## Tech Toolbox 🛠️
 
