@@ -10,7 +10,6 @@ We use the REFIT Electrical Load Measurements dataset. You can download it [here
 
 
 - 🖥️ Language: Python
-- 📊 Data Science: Pandas, NumPy, TensorFlow, scikit-learn
 - 📊 Frameworks: Pandas, Numpy, TensorFlow, Sci-kit Learn, Keras, Streamlit
 
 ## Connect with Us 📲
